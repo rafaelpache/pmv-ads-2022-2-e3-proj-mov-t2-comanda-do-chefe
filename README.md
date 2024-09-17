@@ -6,7 +6,7 @@
 
 `3° Semestre`
 
-Descrever resumidamente, em um ou dois parágrafos, o projeto que está sendo desenvolvido.
+O projeto consiste em uma aplicativo interativo onde um usuário cliente poderá realizar pedido em um restaurante onde o mesmo poderá solicitar/gerar pedidos, bem como os usuários/administradores e/ou funcionários do referido setor poderão receber, administrar e atender as ordens de serviço.
 
 ## Integrantes
 
@@ -23,7 +23,10 @@ Mateus Curcino De Lima
 
 ## Instruções de utilização
 
-Assim que a primeira versão do sistema estiver disponível, deverá complementar com as instruções de utilização. Descreva como instalar eventuais dependências e como executar a aplicação.
+A aplicação está disponível no aplicativo  “Comanda do Chefe” sendo necessário acessar o aplicativo para o uso do usuário.
+Para verificar as funcionalidades, poderão ser utilizados os seguintes dados de login:
+Ambiente do administrador:  “Acesso funcionário"
+Ambiente do cliente: “Acesso Cliente, cadastro de dados do usuário”
 
 # Documentação
 
@@ -38,7 +41,7 @@ Assim que a primeira versão do sistema estiver disponível, deverá complementa
 <li><a href="docs/08-Plano de Testes de Software.md"> Plano de Testes de Software</a></li>
 <li><a href="docs/09-Registro de Testes de Software.md"> Registro de Testes de Software</a></li>
 <li><a href="docs/10-Plano de Testes de Usabilidade.md"> Plano de Testes de Usabilidade</a></li>
-<li><a href="docs/11-Registro de Testes de Usabilidade.md"> Registro de Testes de Usabilidade</a></li>
+<li><a href="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2022-2-e3-proj-mov-t2-comanda-do-chefe/blob/main/docs/11-Registro%20de%20Testes%20de%20Usabilidade.md"> Registro de Testes de Usabilidade</a></li>
 <li><a href="docs/12-Apresentação do Projeto.md"> Apresentação do Projeto</a></li>
 <li><a href="docs/13-Referências.md"> Referências</a></li>
 </ol>
